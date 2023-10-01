@@ -17,7 +17,7 @@
 
 <div align="center">
   <h1>Hello! Please Read Me!</h1>
-  <img src="https://media.tenor.com/CwMlnO0giRYAAAAC/gengar-gengar-pokemon.gif" width="50px" style="display: block; margin: 0 auto;">
+  <img src="https://gifdb.com/images/high/gengar-cute-smile-7dq72s0ozwefd52k.gif" width="50px" style="display: block; margin: 0 auto;">
 </div>
 
 ---
