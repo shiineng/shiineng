@@ -28,6 +28,6 @@ I am a student studying <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 - :seedling: I am actively working on my fluency in C++ as well as Java.
 
-- :zap: In my free time, I like to read, play chess as well as video games such as Valorant, and workout. Right now I am currently reading Atomic Habits by James Clear
+- :zap: In my free time, I like to read, play chess as well as video games such as Valorant, and work out. Right now I am currently reading Atomic Habits by James Clear
 
 - :mailbox: You can contact me through my email or: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-yu-23599028a/)
