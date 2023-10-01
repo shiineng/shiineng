@@ -30,4 +30,4 @@ I am a student studying <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 - :zap: In my free time, I like to read, play chess as well as video games such as Valorant, and workout. Right now I am currently reading Atomic Habits by James Clear
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-yu-23599028a/)
+- :mailbox:If you are interested in anything else about me, you may reach me at: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-yu-23599028a/)
